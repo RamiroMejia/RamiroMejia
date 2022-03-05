@@ -3,12 +3,27 @@
 I am currently a student of the Masters in Data Science at The University of British Columbia. I have experience working in various fields such as quantitative economics, econometrics, machine learning , and data collection. My passion is exploring datasets and solving complex problems.
 
 
+- 🌱 I’m currently learning Deep Learning and Bayesian Statitistic
+- 👯 I’m looking to collaborate in Data Science projects
+
+
+### Languages and Tools:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//python/python-original.svg" style="padding-right:10px;" />
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
+<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
+
+<br />
+<br />
+
 ### Connect with me:
 
-
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/ramiro-francisco-mejia/)
 &nbsp;&nbsp;
-[![website](./img/mail.svg)](mailto:ramiromejiap@gmail.com)
+[![website](./img/mail5.svg)](mailto:ramiromejiap@gmail.com)
+
+
 
 
 <!--
