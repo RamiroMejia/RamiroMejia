@@ -1,10 +1,6 @@
 ### Hi there, I am Ramiro 👋
 
-I am currently a student of the Masters in Data Science at The University of British Columbia. I have experience working in various fields such as quantitative economics, econometrics, machine learning , and data collection. My passion is exploring datasets and solving complex problems.
-
-
-- 🌱 I’m working on my capstone graduate project where I’m applying unsupervised learning techniques to cluster traders using blockchain data.
-- 👯 I’m looking to collaborate in Data Science projects
+I recently finished a Masters in Data Science at The University of British Columbia. I have experience working in various fields such as quantitative economics, econometrics, machine learning , and data collection. My passion is exploring datasets and solving complex problems. Currently, I am now looking for a new role in Data Science, Data Engineering, or Data Analysis. 
 
 
 ### Languages and Tools:
