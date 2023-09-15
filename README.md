@@ -1,6 +1,6 @@
 ### Hi there, I am Ramiro 👋
 
-I recently finished a Masters in Data Science at The University of British Columbia. I have experience working in various fields such as quantitative economics, econometrics, machine learning , and data collection. My passion is exploring datasets and solving complex problems. Currently, I am now looking for a new role in Data Science, Data Engineering, or Data Analysis. 
+I have experience working in various fields such as quantitative economics, econometrics, machine learning , and data engineering. My passion is exploring datasets and solving complex problems. Currently, I am now looking for a new role in Data Science, Data Engineering, or Analytics. 
 
 
 ### Languages and Tools:
